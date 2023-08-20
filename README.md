@@ -1,4 +1,20 @@
-📄 **Project Report: Digital Mark Website**
+
+# Digital Mark Website
+
+![Website Preview](https://raw.githubusercontent.com/Hero777-tech/digital_mark/main/public/images/ui_preview.jpg)
+
+This repository contains the code for a dynamic and interactive website created for a digital marketing company. The website includes multiple pages designed to showcase the company's services, successes, and projects, while incorporating user-friendly features for easy contact and engagement.
+
+## Contact
+
+For inquiries or feedback, you can reach out to:
+- 📧 Email: [yo@gmail.com](mailto:pro.codenow@gmail.com)
+- 🔗 LinkedIn: [![LinkedIn](https://i.imgur.com/dms-icon.png)](https://www.linkedin.com/in/aditya-nath-453341221/)
+
+
+
+
+# 📄 **Project Report: Digital Mark Website**
 
 🚀 **Introduction:** The Digital Mark website project aimed to create an interactive and dynamic website for a digital marketing company. The project focused on designing an appealing and conversion-oriented website with key pages including Home, Services, About Us, Portfolio, and Contact Us. The website was developed using modern technologies such as React, HTML5, CSS3, and integrated with features like an interactive form, AI-powered chatbot, real-time analytics, and Google Maps API.
 
