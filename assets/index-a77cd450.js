@@ -407,7 +407,7 @@ h1{
       cursor: pointer;
     }
     &:hover::after {
-      width: 100%;
+      // width: 100%;
     }
     &:hover img {
       transform: scale(1.2);
