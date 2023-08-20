@@ -63,7 +63,7 @@ const Protf = () => {
 
         </div>
 
-        <a href="/test2/contact/" className="btx">See more</a>
+        <a href="/digital_mark/contact/" className="btx">See more</a>
       </div>
     </div>
 

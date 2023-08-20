@@ -42,7 +42,7 @@ const Teams = () => {
                 for you.
             </p>
             <button className="btxl">
-                <NavLink to="/test2/contact" className="yo">CONTACT US</NavLink>
+                <NavLink to="/digital_mark/contact" className="yo">CONTACT US</NavLink>
             </button>
         </div>
 

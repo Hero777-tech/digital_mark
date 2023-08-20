@@ -20,7 +20,7 @@ const HeroSection = () => {
           just our followers but also our competitors.
           </p>
           <Button className="btn hireme-btn">
-            <NavLink to="/test2/contact"> CONTACT US </NavLink>
+            <NavLink to="/digital_mark/contact"> CONTACT US </NavLink>
           </Button>
         </div>
 
