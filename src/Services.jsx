@@ -3,7 +3,7 @@ import styled from "styled-components";
 import { useGlobalContext } from "./context";
 import { NavLink } from "react-router-dom";
 import { Button } from "./styles/Button";
-import servicesData from "/public/service-data"; // Import the services data
+import servicesData from "/service-data"; // Import the services data
 
 const Services = () => {
   return (
@@ -20,7 +20,7 @@ const Services = () => {
               <div className="card-data">
                 <h3>{name}</h3>
                 <p>{description}</p>
-                <NavLink to="/service">
+                <NavLink to="/digital_mark/service">
                   <Button className="btn">Read More</Button>
                 </NavLink>
               </div>
