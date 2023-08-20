@@ -10,8 +10,8 @@ This repository contains the code for a dynamic and interactive website created 
 ## Contact
 
 For inquiries or feedback, you can reach out to:
-- 📧 Email: [yo@gmail.com](mailto:pro.codenow@gmail.com)
-- 🔗 LinkedIn: [![LinkedIn](https://i.imgur.com/dms-icon.png)](https://www.linkedin.com/in/aditya-nath-453341221/)
+- 📧 Email: [pro.codenow@gmail.com](mailto:pro.codenow@gmail.com)
+- 🔗 LinkedIn: [![LinkedIn](https://img.icons8.com/?size=25&id=xuvGCOXi8Wyg&format=png)](https://www.linkedin.com/in/aditya-nath-453341221/)
 
 
 
